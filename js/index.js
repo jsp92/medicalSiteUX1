@@ -12,6 +12,8 @@ $(function(){
 		}
 	});
 	
+	$('#console-box').append('console is ready...');
+	
 	$.validate({
 		rules:
 		{	
@@ -46,5 +48,5 @@ $(function(){
 				
 	});
 	
-	$('#console-box').append('console is ready...');
+	
 });
