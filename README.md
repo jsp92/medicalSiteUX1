@@ -6,4 +6,4 @@ Designed by: Jackson Pace
 
 CIS 376
 
-Built for Mozilla Firefox
+Optimized for Google Chrome
