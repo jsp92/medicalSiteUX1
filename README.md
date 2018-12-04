@@ -14,4 +14,8 @@ The following are screenshots (with annotations) of the improvements identified 
 
 Figure 1: Created user-friendly error message for email input validation
 
+
+![Alt text](https://i.imgur.com/YcWRggt.png "Confirm Password")
+
+Figure 2: Confirm Password Validation
  
