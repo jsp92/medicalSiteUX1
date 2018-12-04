@@ -1,6 +1,6 @@
 # medicalSiteUX1
 
-First Version of Medical Portal Demo Website that Demonstrates UX Flaws
+First Version of Medical Portal Demo Website 
 
 Designed by: Jackson Pace
 
